@@ -1,0 +1,7 @@
+. How to Run
+1. Install Node.js and npm.
+2. Extract the project zip and open terminal inside the folder.
+3. Run:
+   npm install express socket.io
+   node server.js
+4. Visit http://localhost:3000 in your browser.
